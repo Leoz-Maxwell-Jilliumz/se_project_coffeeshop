@@ -1,6 +1,7 @@
 # Triple Peaks Coffee Shop
 
 This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
+project is called Coffeeshop
 
 ## Project features
 
@@ -13,4 +14,5 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
+could eventually add an order feature
 Add your ideas here :)
