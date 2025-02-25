@@ -1,11 +1,13 @@
 @import url(../vendor/normalize.css);
-
+@import url(../block/page.css);
 @import url(../block/header.css);
+@import url(../block/nav.css);
 /*header styles including nav*/
-@import url(../block/recipies.css);
+@import url(../block/recipes.css);
 /*recipies page and all of its elements*/
 @import url(../block/reservation.css);
 /*reservation window and all of its elements*/
+@import url(../block/form.css);
 @import url(../block/menu.css);
 /*menu not including cards */
 @import url(../block/card.css);
